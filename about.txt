@@ -1,7 +1,7 @@
 
 Maxwell Offiah
 
-Learning how to use git professionally. 
+Learning how to use git professionally. Also learning python.
 
 
 
