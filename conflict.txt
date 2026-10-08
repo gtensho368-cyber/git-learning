@@ -1,4 +1,5 @@
 
-Version from Conflict A
+Version from Conflict B
+
 
 
